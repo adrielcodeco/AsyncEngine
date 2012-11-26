@@ -1,0 +1,14 @@
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.Test.dll
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.Test.pdb
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.dll
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.pdb
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\obj\Debug\AsyncEngine.Test.dll
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine.Test\obj\Debug\AsyncEngine.Test.pdb
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\obj\Debug\AsyncEngine.Test.pdb
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.Test.dll
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.Test.pdb
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.dll
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\bin\AsyncEngine.pdb
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\obj\Debug\AsyncEngine.Test.dll
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine.Test\obj\Debug\AsyncEngine.Test.csprojResolveAssemblyReference.cache

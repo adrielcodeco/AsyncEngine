@@ -1,0 +1,9 @@
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine\bin\Debug\AsyncEngine.dll
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine\bin\Debug\AsyncEngine.pdb
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine\obj\Debug\AsyncEngine.dll
+C:\Users\adriel.silva.UPPERCASE\Desktop\AsyncEngine\AsyncEngine\AsyncEngine\obj\Debug\AsyncEngine.pdb
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine\bin\Debug\AsyncEngine.dll
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine\bin\Debug\AsyncEngine.pdb
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine\obj\Debug\AsyncEngine.dll
+D:\Dropbox\AsyncEngine\AsyncEngine\AsyncEngine\obj\Debug\AsyncEngine.pdb
